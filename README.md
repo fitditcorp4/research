@@ -1,2 +1,2 @@
 # research
-This describes my PhD research
+This describes a part of my PhD research
