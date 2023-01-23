@@ -1,0 +1,10 @@
+Tuned catboost models 10,000 iterations
+BaseCdsForecaster(degree=3,
+regressor=DecisionTreeRegressor(criterion='mae',
+max_depth=8,
+max_features='log2',
+min_impurity_decrease=0.0242024878124359,
+min_samples_leaf=3,
+min_samples_split=5,
+random_state=14),
+sp=12,window_length=13)
